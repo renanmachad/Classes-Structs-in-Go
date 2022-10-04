@@ -53,7 +53,6 @@ func main() {
 
 	// create the struct/classe person
 	e := New(name, surname, years_int)
-
 	// Print the result
 	fmt.Println(e.FirstName, e.LastName, e.Years)
 
